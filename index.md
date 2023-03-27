@@ -5,11 +5,11 @@
 ### Geospatial Machine Learning
 
 [Project 1: Seismic deep learning](https://github.com/thilowrona/seismic_deep_learning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Figure 11.png?raw=true"/>
 
 ---
 [Project 2: Fault analysis tooblox](https://github.com/thilowrona/fatbox)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/afar.png?raw=true"/>
 
 ---
 
