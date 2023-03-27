@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Seismic deep learning](https://github.com/thilowrona/seismic_deep_learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
