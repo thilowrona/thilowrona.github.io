@@ -3,8 +3,6 @@ logo: "/images/download.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist with >10 years of experience in Earth Science and Machine Learning. 
   <br><br>
-  <a href="https://github.com/thilowrona">GitHub Profile</a>  
-  <br><br>
   <a href="https://www.linkedin.com/in/thilowrona/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
