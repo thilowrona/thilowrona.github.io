@@ -2,22 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Geospatial Machine Learning
 
-[Seismic deep learning](https://github.com/thilowrona/seismic_deep_learning)
+[Project 1: Seismic deep learning](https://github.com/thilowrona/seismic_deep_learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Project 2: Fault analysis tooblox](https://github.com/thilowrona/fatbox)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Challenges
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
